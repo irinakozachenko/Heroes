@@ -34,12 +34,14 @@
     min-width: 120px;
     background-color: #3f525c;
     border-radius: 2px;
+
+    &:hover {
+      background-color: #EEE;
+      cursor: pointer;
+      color: #607d8b;
+    }
   }
-  .module:hover {
-    background-color: #EEE;
-    cursor: pointer;
-    color: #607d8b;
-  }
+ 
   .grid-pad {
     padding: 10px 0;
   }
