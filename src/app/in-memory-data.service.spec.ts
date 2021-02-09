@@ -1,7 +1,7 @@
 /* tslint:disable:no-unused-variable */
 
 import { TestBed, async, inject } from '@angular/core/testing';
-import { InMemoryDataService } from './InMemoryData.service';
+import { InMemoryDataService } from './in-memory-data.service';
 
 describe('Service: InMemoryData', () => {
   beforeEach(() => {
